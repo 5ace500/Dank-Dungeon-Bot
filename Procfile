@@ -1,1 +1,1 @@
-worker: node bot.js Dank-Dungeon-Bot
+worker: node bot.js  Dank-Dungeon-Bot
